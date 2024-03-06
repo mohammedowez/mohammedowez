@@ -13,9 +13,9 @@
  * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm From Computer Engineering background.
 
-### Connect with me :
+<!-- ### Connect with me :
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](
-https://www.linkedin.com/in/mohammed-owez-217740172/)
+https://www.linkedin.com/in/mohammed-owez-217740172/) -->
 
 ### Skills 
 ### :zap: My Tech Toolbox 🧰
