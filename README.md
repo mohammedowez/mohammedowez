@@ -134,6 +134,6 @@ https://www.linkedin.com/in/mohammed-owez-217740172/) -->
 ### •Others:
 <code><img src="https://user-images.githubusercontent.com/59692344/218242974-0aa110cf-722b-4454-a931-de90f87f754c.png" height="40"></code>
 <code><img src="https://user-images.githubusercontent.com/59692344/218242989-8d9e6b83-763a-4dcf-b1f7-8a8366138328.png" height="40"></code>
-<!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/kaltura.png" height="30"></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/souravpal01/souravpal01/master/img/other/kaltura.png" heigt="30"></code>-->
 
 </p>
